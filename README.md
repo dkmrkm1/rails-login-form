@@ -1,24 +1,15 @@
-# README
+# rails-login-form
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+rails login form using devise gem
 
-Things you may want to cover:
+## Description
 
-* Ruby version
+`rails-login-form` is 
 
-* System dependencies
+## Requirement
 
-* Configuration
+## Author
+Duuun
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## License
+MIT
